@@ -54,3 +54,4 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\ref
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.pdb
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.genruntimeconfig.cache
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\ref\BlazorMaterializeNet8.dll
+C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.sourcelink.json

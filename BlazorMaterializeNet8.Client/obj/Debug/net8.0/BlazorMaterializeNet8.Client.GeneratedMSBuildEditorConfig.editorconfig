@@ -22,6 +22,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8.Client/Pages/Forms.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

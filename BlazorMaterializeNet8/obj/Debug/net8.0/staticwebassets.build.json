@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cl7NtR/3cPddvUPHvNSNGqKiAJ4ZKhTVhJJXzjsO3cY=",
+  "Hash": "h0XwzPCx9Dr5jujELrUeLh1kO373ufnlT9YmyCWICSQ=",
   "Source": "BlazorMaterializeNet8",
   "BasePath": "_content/BlazorMaterializeNet8",
   "Mode": "Default",
@@ -7938,25 +7938,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
-    },
-    {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\InitSideNav.js",
-      "SourceId": "BlazorMaterializeNet8",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\",
-      "BasePath": "_content/BlazorMaterializeNet8",
-      "RelativePath": "js/InitSideNav.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\InitSideNav.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\materialize.js",

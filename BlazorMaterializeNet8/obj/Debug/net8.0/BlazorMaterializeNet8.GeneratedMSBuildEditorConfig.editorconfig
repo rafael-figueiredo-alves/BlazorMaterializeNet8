@@ -22,12 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8/Components/Pages/Tables.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWJsZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/MeusProjetos/BlazorMaterializeNet8/BlazorMaterializeNet8/Components/Routes.razor]

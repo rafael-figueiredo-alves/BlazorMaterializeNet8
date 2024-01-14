@@ -1026,3 +1026,4 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\refint\BlazorMaterializeNet8.Client.dll
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.pdb
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\ref\BlazorMaterializeNet8.Client.dll
+C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.sourcelink.json

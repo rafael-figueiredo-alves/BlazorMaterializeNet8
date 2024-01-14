@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\InitSideNav.js",
-      "PackagePath": "staticwebassets\\js\\InitSideNav.js"
-    },
-    {
       "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\materialize.js",
       "PackagePath": "staticwebassets\\js\\materialize.js"
     },
