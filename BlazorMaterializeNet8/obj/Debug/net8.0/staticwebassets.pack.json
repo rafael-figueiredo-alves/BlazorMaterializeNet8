@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMaterializeNet8.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorMaterializeNet8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\css\\materialize.css",
+      "PackagePath": "staticwebassets\\css\\materialize.css"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\css\\materialize.min.css",
+      "PackagePath": "staticwebassets\\css\\materialize.min.css"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\InitSideNav.js",
+      "PackagePath": "staticwebassets\\js\\InitSideNav.js"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\materialize.js",
+      "PackagePath": "staticwebassets\\js\\materialize.js"
+    },
+    {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\materialize.min.js",
+      "PackagePath": "staticwebassets\\js\\materialize.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorMaterializeNet8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorMaterializeNet8.props",
+      "PackagePath": "build\\BlazorMaterializeNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMaterializeNet8.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMaterializeNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorMaterializeNet8.props",
+      "PackagePath": "buildTransitive\\BlazorMaterializeNet8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
