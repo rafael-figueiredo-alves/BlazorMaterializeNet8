@@ -615,6 +615,7 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.AssemblyInfo.cs
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.csproj.CoreCompileInputs.cache
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.sourcelink.json
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1026,4 +1027,3 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\refint\BlazorMaterializeNet8.Client.dll
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.pdb
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\ref\BlazorMaterializeNet8.Client.dll
-C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8.Client\obj\Debug\net8.0\BlazorMaterializeNet8.Client.sourcelink.json

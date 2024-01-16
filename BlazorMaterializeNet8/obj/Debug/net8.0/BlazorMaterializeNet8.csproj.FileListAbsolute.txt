@@ -37,6 +37,7 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\Bla
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.AssemblyInfo.cs
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.csproj.CoreCompileInputs.cache
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.MvcApplicationPartsAssemblyInfo.cache
+C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.sourcelink.json
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\staticwebassets.build.json
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\staticwebassets.development.json
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\staticwebassets\msbuild.BlazorMaterializeNet8.Microsoft.AspNetCore.StaticWebAssets.props
@@ -54,4 +55,3 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\ref
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.pdb
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.genruntimeconfig.cache
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\ref\BlazorMaterializeNet8.dll
-C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.sourcelink.json

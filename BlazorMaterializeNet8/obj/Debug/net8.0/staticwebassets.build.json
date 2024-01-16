@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h0XwzPCx9Dr5jujELrUeLh1kO373ufnlT9YmyCWICSQ=",
+  "Hash": "w2DgFe6pcbFM2SxyFZ36+2ByR9tFCYO2O2rf5f8Z8rk=",
   "Source": "BlazorMaterializeNet8",
   "BasePath": "_content/BlazorMaterializeNet8",
   "Mode": "Default",
@@ -7976,6 +7976,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\materialize.min.js"
+    },
+    {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\Testes.js",
+      "SourceId": "BlazorMaterializeNet8",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\",
+      "BasePath": "_content/BlazorMaterializeNet8",
+      "RelativePath": "js/Testes.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Testes.js"
     }
   ]
 }

@@ -1,5 +1,6 @@
 ﻿@page "/forms"
 @rendermode InteractiveWebAssembly
+@inject IJSRuntime JS
 
 <div class="container">
 <h3>Forms</h3>
@@ -32,7 +33,7 @@
     </form>
 </div>
     <ul class="collapsible">
-        <li class="active">
+        <li>
             <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
             <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.</span></div>
         </li>
@@ -48,5 +49,9 @@
 </div>
 
 @code {
-
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await JS.InvokeVoidAsync("InitCollapsibles");
+        await JS.InvokeVoidAsync("InitDatePickers");
+    }
 }

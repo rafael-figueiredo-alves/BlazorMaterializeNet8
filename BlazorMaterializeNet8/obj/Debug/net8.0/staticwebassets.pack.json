@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\Testes.js",
+      "PackagePath": "staticwebassets\\js\\Testes.js"
+    },
+    {
       "Id": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8\\wwwroot\\js\\materialize.js",
       "PackagePath": "staticwebassets\\js\\materialize.js"
     },
