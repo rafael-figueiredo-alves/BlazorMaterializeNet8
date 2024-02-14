@@ -49,9 +49,9 @@ C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\sco
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\scopedcss\bundle\BlazorMaterializeNet8.styles.css
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\scopedcss\projectbundle\BlazorMaterializeNet8.bundle.scp.css
-C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.csproj.CopyComplete
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.dll
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\refint\BlazorMaterializeNet8.dll
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.pdb
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMaterializeNet8.genruntimeconfig.cache
 C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\ref\BlazorMaterializeNet8.dll
+C:\MeusProjetos\BlazorMaterializeNet8\BlazorMaterializeNet8\obj\Debug\net8.0\BlazorMa.3D4C1D2B.Up2Date

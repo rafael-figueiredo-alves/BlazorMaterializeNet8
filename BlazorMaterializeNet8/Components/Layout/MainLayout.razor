@@ -1,5 +1,4 @@
 ﻿@inherits LayoutComponentBase
-@rendermode InteractiveServer
 
 <div class="page">
 
@@ -11,8 +10,8 @@
                 <ChildContent>
                     @Body
                 </ChildContent>
-                <ErrorContent Context="Exception">
-                    @onErro(Exception);
+                <ErrorContent>
+                    @onErro()
                     <h1 style="color: red;">Opa... Ocorreu um erro</h1>
                 </ErrorContent>
             </ErrorBoundary>
@@ -27,10 +26,10 @@
 </div>
 
 @{
-    async Task<string> onErro(Exception ex)
+    async Task<string> onErro()
     {
-        Console.WriteLine($"Erro: {ex.Message}");
-        return string.Empty;
+        Console.WriteLine($"Erro:");
+        return "";
     }
 
 }
