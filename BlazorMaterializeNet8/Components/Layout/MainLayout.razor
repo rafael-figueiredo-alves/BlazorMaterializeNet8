@@ -1,4 +1,5 @@
 ﻿@inherits LayoutComponentBase
+@rendermode InteractiveServer
 
 <div class="page">
 
@@ -6,7 +7,15 @@
         <NavMenu />
 
         <article class="content px-4">
-            @Body
+            <ErrorBoundary>
+                <ChildContent>
+                    @Body
+                </ChildContent>
+                <ErrorContent Context="Exception">
+                    @onErro(Exception);
+                    <h1 style="color: red;">Opa... Ocorreu um erro</h1>
+                </ErrorContent>
+            </ErrorBoundary>
         </article>
     </main>
 </div>
@@ -16,3 +25,12 @@
     <a href="" class="reload">Reload</a>
     <a class="dismiss">🗙</a>
 </div>
+
+@{
+    async Task<string> onErro(Exception ex)
+    {
+        Console.WriteLine($"Erro: {ex.Message}");
+        return string.Empty;
+    }
+
+}
