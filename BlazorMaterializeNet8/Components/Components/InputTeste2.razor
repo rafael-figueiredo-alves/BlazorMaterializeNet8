@@ -1,0 +1,16 @@
+﻿@if (Visivel)
+{
+<InputText Value=@Valor ValueExpression="() => Valor" ValueChanged="(string value) => onchangevalor(value)" />
+}
+
+@code {
+    [Parameter] public string Valor { get; set; }
+    [Parameter] public EventCallback<string> onchangevalue { get; set; }
+    [Parameter] public bool Visivel { get; set; }
+
+    private void onchangevalor(string value)
+    {
+        Valor = value;
+        onchangevalue.InvokeAsync(value);
+    }
+}

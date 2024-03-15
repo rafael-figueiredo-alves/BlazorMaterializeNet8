@@ -1,0 +1,10 @@
+﻿@if (Visivel)
+{
+    <InputCheckbox Value=@Valor ValueExpression="() => Valor" ValueChanged="(bool value) => onchangevalue.InvokeAsync(value)">Teste</InputCheckbox>
+}
+
+@code {
+    [Parameter] public bool Valor { get; set; }
+    [Parameter] public EventCallback<bool> onchangevalue { get; set; }
+    [Parameter] public bool Visivel { get; set; }
+}

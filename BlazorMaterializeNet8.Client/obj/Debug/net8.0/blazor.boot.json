@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorMaterializeNet8.Client",
   "resources": {
-    "hash": "sha256-TDOdbtE0MogzdOnymJx3x6vWlLCxlm1fu8mezOJO4tw=",
+    "hash": "sha256-gZLHa0V+hZuOvdepm4nKW70Cbf7YJ0v2f7ObHIOPrAg=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.2bjwgazkp6.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "BlazorMaterializeNet8.Client.wasm": "sha256-G8VciQ6h5PZJrTrem68o5VZXqBUH7K+aXLwUJqOQN3Y="
+      "BlazorMaterializeNet8.Client.wasm": "sha256-qkeSUq8L51YnBYxx6CpSfRV9/4G8IVeeweBfy9YX/uY="
     },
     "pdb": {
-      "BlazorMaterializeNet8.Client.pdb": "sha256-IrWNnqFkMPu+Tby3HYa1NtciB71scH8BzPVrPz1YM6s="
+      "BlazorMaterializeNet8.Client.pdb": "sha256-csWOon9NMAm1Yjx70Ui/eo0jcgpGrwMcdUzS40k1+HU="
     }
   },
   "cacheBootResources": true,

@@ -1,7 +1,55 @@
 ﻿@page "/"
+@rendermode InteractiveServer
+@using BlazorMaterializeNet8.Components.Components;
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<InputTeste1 Valor=@valorbool Visivel=true @ref=teste1 />
+
+<InputTeste2 Valor="@valorstr" Visivel=@ver @ref=teste2 />
+
+<InputTeste1 Valor=@valorbool2 Visivel=true @ref=teste3 />
+
+<InputTeste1 Valor=@valorbool Visivel=true @ref=teste4 />
+
+<InputTeste2 Valor="@valorstr2" Visivel=@ver @ref=teste5 />
+
+<button class="btn btn-success" @onclick="Executar">Executar</button>
+
+<button class="btn btn-success" @onclick="@(() => ver = !ver)">Exibir</button>
+
+@if(Grupo != null)
+{
+    foreach(RzFilter filtro in Grupo.RzFilters)
+    {
+        <p>@filtro.Valor</p>
+    }
+    <br />
+    @Grupo.SerializarRzFilters();
+}
+
+@code{
+    private InputTeste1? teste1 { get; set; }
+    private InputTeste2? teste2 { get; set; }
+    private InputTeste1? teste3 { get; set; }
+    private InputTeste1? teste4 { get; set; }
+    private InputTeste2? teste5 { get; set; }
+
+    private bool valorbool = true;
+    private bool valorbool2 = false;
+    private string valorstr = "oi";
+    private string valorstr2 = "tchau";
+
+    private bool ver { get; set; } = false;
+
+    private RzFilterGroup? Grupo = null;
+
+    private void Executar()
+    {
+        Grupo = new(new List<object> { teste1, teste2, teste3, teste4, teste5 });
+    }
+}
