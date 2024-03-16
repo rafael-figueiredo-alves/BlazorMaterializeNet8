@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k0l/6EE1qAkPK/KKt7puxwypW7/SyRnWJoXmYzOjxPw=",
+  "Hash": "CBSq6A3UYbOhdndbwCIObTFtkdeGn9rPHnEHVBWEUb0=",
   "Source": "BlazorMaterializeNet8.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.2bjwgazkp6.js",
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.7fn8vfojh7.js",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.2bjwgazkp6.js",
+      "RelativePath": "_framework/dotnet.native.8.0.3.7fn8vfojh7.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.vk43ypl175.js",
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.45xkwg3g9h.js",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.vk43ypl175.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.45xkwg3g9h.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\devpe\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4007,6 +4007,25 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
     },
     {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\1eupf2pq00.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\1io894cob4.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -4100,25 +4119,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Primitives.wasm"
-    },
-    {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\2bjwgazkp6.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.2bjwgazkp6.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.2bjwgazkp6.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.2bjwgazkp6.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\2j8nnoc4b6.gz",
@@ -4290,6 +4290,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
+    },
+    {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\45xkwg3g9h.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.45xkwg3g9h.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.45xkwg3g9h.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.45xkwg3g9h.js"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\4823icf8yl.gz",
@@ -4672,6 +4691,25 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm"
     },
     {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\7fn8vfojh7.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.3.7fn8vfojh7.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.7fn8vfojh7.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.7fn8vfojh7.js"
+    },
+    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\7m5pqnsszc.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -4917,25 +4955,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
-    },
-    {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\9xxmhgfx5h.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\9y03cjp5p8.gz",
@@ -5356,6 +5375,25 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\ey3m9l93yh.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\fp8l32l8ye.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -5506,6 +5544,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm"
+    },
+    {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\gjb41x6tk4.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\gkeorm48u7.gz",
@@ -5869,25 +5926,6 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\j6lo8hoc26.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\j7exs82s4d.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -6192,6 +6230,25 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\lpcgwls3c2.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\lq0t3i55vg.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -6382,25 +6439,6 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\mfejl7smxw.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\mlmoe18xlq.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -6513,25 +6551,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.wasm"
-    },
-    {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\ntpupxo0uy.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\nutmqiphce.gz",
@@ -6743,25 +6762,6 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\p9uthm5l9d.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\pimz5fr773.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -6781,25 +6781,6 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\q6n16ge1p5.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\q9sat7mizt.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -6817,6 +6798,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
+    },
+    {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\qkyhc1g3xz.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\qm84q9l3kj.gz",
@@ -7256,25 +7256,6 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm"
     },
     {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\vk43ypl175.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.vk43ypl175.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.vk43ypl175.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.vk43ypl175.js"
-    },
-    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\vn7ks6mc67.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -7560,6 +7541,44 @@
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
     },
     {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\yc6smx4ury.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\yeu3va3xms.gz",
+      "SourceId": "BlazorMaterializeNet8.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\yi9qu0owu8.gz",
       "SourceId": "BlazorMaterializeNet8.Client",
       "SourceType": "Computed",
@@ -7710,25 +7729,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
-    },
-    {
-      "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\zrk2xur75x.gz",
-      "SourceId": "BlazorMaterializeNet8.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\MeusProjetos\\BlazorMaterializeNet8\\BlazorMaterializeNet8.Client\\obj\\Debug\\net8.0\\compressed\\zu0n1f79jc.gz",
