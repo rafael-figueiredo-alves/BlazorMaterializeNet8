@@ -8,6 +8,7 @@
 
 Welcome to your new app.
 
+<TesteTreeBuilder>
 <InputTeste1 Valor=@valorbool Visivel=true @ref=teste1 />
 
 <InputTeste2 Valor="@valorstr" Visivel=@ver @ref=teste2 />
@@ -21,6 +22,8 @@ Welcome to your new app.
 <button class="btn btn-success" @onclick="Executar">Executar</button>
 
 <button class="btn btn-success" @onclick="@(() => ver = !ver)">Exibir</button>
+</TesteTreeBuilder>
+
 
 @if(Grupo != null)
 {
