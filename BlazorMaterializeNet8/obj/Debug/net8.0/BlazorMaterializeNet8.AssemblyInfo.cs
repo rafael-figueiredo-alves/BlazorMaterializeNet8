@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMaterializeNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f776dbdb73feb6dc988f47c65c3436bddc4c375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c69552ee9739bc1d55f88c591670b0587cc2c7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMaterializeNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMaterializeNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
